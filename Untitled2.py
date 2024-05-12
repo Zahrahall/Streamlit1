@@ -1,6 +1,4 @@
-pip install streamlit
-pip install XGBoost
-pip install joblib
+
 import streamlit as st
 import pandas as pd
 import joblib
