@@ -14,8 +14,6 @@ if page == "Single Prediction":
     st.title('Cart Abandonment Prediction App')
     st.write("This app predicts whether a cart will be abandoned based on individual order inputs.")
 
-    # Display an image
-    st.image("/workspaces/Streamlit/55eb8cd8-ff03-4fcd-b85d-5638f35839d0.jpg", use_column_width=True)  # Update the path to your image
 
     # Display a header
     st.header("Crafting Sweet Moments")
