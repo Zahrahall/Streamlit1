@@ -1,3 +1,4 @@
-XGBoost
-Streamlit
+
+streamlit
 joblib
+xgboost
