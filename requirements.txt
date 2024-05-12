@@ -1,6 +1,6 @@
-streamlit==1.12.0    # Replace with the version you are using
-pandas==1.4.2        # Replace with the version you are using
-joblib==1.1.0        # Replace with the version you are using
-numpy==1.22.4        # Optional, include if your project uses numpy directly
-scikit-learn==1.1.1  # Optional, include if you are using scikit-learn for machine learning
-xgboost==1.6.1
+streamlit   # Replace with the version you are using
+pandas     # Replace with the version you are using
+joblib      # Replace with the version you are using
+numpy       # Optional, include if your project uses numpy directly
+scikit-learn  # Optional, include if you are using scikit-learn for machine learning
+xgboost
